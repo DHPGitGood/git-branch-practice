@@ -1,3 +1,4 @@
+Just adding some text for local merge conflict setup
 SocratesThisOne
 Joan of Arc
 Abraham Lincoln
